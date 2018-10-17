@@ -14,8 +14,7 @@
 [flowchart](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/FLOWCHART1.jpg)
 
 **CODE PROGRAM**
-
-...c++
+'''c++
 #include <iostream>
 
 using namespace std;
@@ -36,9 +35,9 @@ int main()
         if (B>A && B>C) cout << "bilangan terbesar = " << B << endl;
         else
             cout << "bilangan terbesar = " << C;
-
     }
 }
+
 '''|
 
 hasilnya :
