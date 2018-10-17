@@ -2,7 +2,7 @@
 
 ## latihann1.cpp program menghitung bilangan terbesar dari 3 bilangan
 
-**Alur Argoritma**
+**Alur Algoritma**
 1. Mendeklarasikan Variable int A,B,C sebagai varible input
 2. membaca input dari key board  cin >> A >> B >> C
 4. membandingkan nilain variable **A** dengan Variable **B** & **C**
@@ -46,16 +46,16 @@ hasilnya :
 
 ## latihan2.cpp menghitung bilangan terbesar dari 4 bilangan
 
-**Alur Argoritma**
+**Alur Algoritma**
 1. Mendeklarasikan Variable int A,B,C,D sebagai varible input
 2. membaca input dari key board  cin >> A >> B >> C >>D
-4. membandingkan nilain variable **A** dengan Variable **B** & **C** & **D**
-5. Jika kondisi **true** Maka cetaklah variable **A**
-6. dan bandingkan nilai  **B** dengan **A**,**C** & **D**
-7. jika kondisi **true** maka cetaklah  **B**
-8. dan variable **C** dibandingkan lagi **B**,**A** & **D**
-9. jika kondisi **true** maka cetaklah **C** 
-10. dan jika kondisi **false** maka cetaklah **D**
+3. membandingkan nilain variable **A** dengan Variable **B** & **C** & **D**
+4. Jika kondisi **true** Maka cetaklah variable **A**
+5. dan bandingkan nilai  **B** dengan **A**,**C** & **D**
+6. jika kondisi **true** maka cetaklah  **B**
+7. dan variable **C** dibandingkan lagi **B**,**A** & **D**
+8. jika kondisi **true** maka cetaklah **C** 
+9. dan jika kondisi **false** maka cetaklah **D**
 
 **flowchart program**
 [FLOWCHARTLT2](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/FLOWCHARTLT2.jpg)
@@ -93,5 +93,5 @@ int main()
 '''|
 
 hasilnya :
-[pic2](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/pic2.png)
+[pic2](https://github.com/Amirul29/Praktikum2/blob/master/pic2.png)
 
