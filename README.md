@@ -7,15 +7,16 @@
 2. membaca input dari key board  cin >> A >> B >> C
 4. membandingkan nilain variable **A** dengan Variable **B** & **C**
 5. Jika kondisi **true** Maka cetaklah variable **A**
-6. jika **fals** Maka bandingkanlah nilai **B** dengan **C**
-7. jika hasil lebih besar **B** **cout** **B** dan sebaliknya
+6. Membandingkanlah nilai **B** dengan **C** & **A**
+7. jika kondisi **true** Maka cetaklah variable **B**
+7. jika kondisi **false** **cout** **C** 
 
 **flowchart program**
 ![flowchart](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/FLOWCHART1.jpg)
 
 **CODE PROGRAM**
 
-'''c++
+```c++
 #include <iostream>
 
 using namespace std;
@@ -39,7 +40,7 @@ int main()
     }
 }
 
-'''|
+```|
 
 hasilnya :
 ![pic1](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/pic1.png)
@@ -62,7 +63,7 @@ hasilnya :
 ![FLOWCHARTLT2](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/FLOWCHARTLT2.jpg)
   
 **CODE PROGRAM**
-'''c++
+```c++
 #include <iostream>
 
 using namespace std;
@@ -90,8 +91,7 @@ int main()
             cout << "bilangan terbesar = " << D;
     }
 }
-
-'''|
+```|
 
 hasilnya :
 ![pic2](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/pic2.png)
