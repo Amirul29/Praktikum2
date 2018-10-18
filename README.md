@@ -40,7 +40,7 @@ int main()
     }
 }
 
-```|
+```
 
 hasilnya :
 ![pic1](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/pic1.png)
@@ -91,7 +91,7 @@ int main()
             cout << "bilangan terbesar = " << D;
     }
 }
-```|
+```
 
 hasilnya :
 ![pic2](https://raw.githubusercontent.com/Amirul29/Praktikum2/master/pic2.png)
